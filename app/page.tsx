@@ -16,9 +16,9 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <div className="inline-block px-4 py-2 bg-primary/10 border border-primary/20 rounded-full">
-                  <span className="text-primary font-semibold text-sm">TPCA 2026 Theme</span>
-                </div>
+                {/* <div className="inline-block px-4 py-2 bg-primary/10 border border-primary/20 rounded-full">
+                  <span className="text-primary font-semibold text-sm">TPCA 2026 Conference</span>
+                </div> */}
                 <h1 className="text-4xl lg:text-6xl font-bold leading-tight">
                   <span className="text-primary">REDEFINITION:</span>
                   <br />
