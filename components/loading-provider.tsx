@@ -76,7 +76,7 @@ function LoadingScreen() {
                 </span>
               </div>
             </div>
-            
+
             {/* Animated Rings */}
             <motion.div
               className="absolute inset-0 rounded-full border-2 border-primary/30"
@@ -89,7 +89,7 @@ function LoadingScreen() {
               transition={{ duration: 2, repeat: Infinity, ease: "easeInOut", delay: 0.5 }}
             />
           </div>
-          
+
           <h1 className="text-4xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
             TPCA 2026
           </h1>
@@ -140,9 +140,6 @@ function LoadingScreen() {
           transition={{ delay: 1, duration: 0.8 }}
         >
           <div className="inline-block px-6 py-3 bg-primary/10 border border-primary/20 rounded-full">
-            <span className="text-primary font-semibold text-sm">
-              REDEFINITION: Stepping Beyond the Usual
-            </span>
           </div>
         </motion.div>
       </div>

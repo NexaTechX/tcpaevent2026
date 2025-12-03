@@ -146,7 +146,7 @@ export default function HomePage() {
                   </div>
                   <h3 className="text-xl font-semibold text-primary-foreground">Now, it's Year 6!</h3>
                   <p className="text-primary-foreground/90">
-                    This year, TPCA returns with the theme "REDEFINITION: Stepping Beyond the Usual." It's not just another edition, but a call to unlock fresh ideas, spark purposeful connections, and step into a future where limits no longer define us.
+                    This year, TPCA returns with the theme. It's not just another edition, but a call to unlock fresh ideas, spark purposeful connections, and step into a future where limits no longer define us.
                   </p>
                 </CardContent>
               </Card>
@@ -174,7 +174,7 @@ export default function HomePage() {
             <div className="space-y-6">
               <h2 className="text-3xl lg:text-4xl font-bold">Capturing Moments of Impact</h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Every TPCA conference creates unforgettable moments of connection, learning, and inspiration. 
+                Every TPCA conference creates unforgettable moments of connection, learning, and inspiration.
                 These images capture the energy and passion that makes our events truly special.
               </p>
             </div>

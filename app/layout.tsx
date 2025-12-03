@@ -21,7 +21,7 @@ const sourceSansPro = Source_Sans_3({
 export const metadata: Metadata = {
   title: "TPCA 2026 - The Pacesetters Conference Africa",
   description:
-    "REDEFINITION: Stepping Beyond the Usual. Join hundreds of Africa's boldest thinkers, builders, and changemakers.",
+    "Join hundreds of Africa's boldest thinkers, builders, and changemakers.",
   keywords: ["TPCA", "Conference", "Africa", "Pacesetters", "Leadership", "Innovation", "Networking"],
   authors: [{ name: "TPCA Team" }],
   creator: "TPCA",
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://tpca-conference.com"),
   openGraph: {
     title: "TPCA 2026 - The Pacesetters Conference Africa",
-    description: "REDEFINITION: Stepping Beyond the Usual. Join Africa's boldest thinkers and changemakers.",
+    description: "Join Africa's boldest thinkers and changemakers.",
     url: "https://tpca-conference.com",
     siteName: "TPCA 2026",
     images: [
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "TPCA 2026 - The Pacesetters Conference Africa",
-    description: "REDEFINITION: Stepping Beyond the Usual. Join Africa's boldest thinkers and changemakers.",
+    description: "Join Africa's boldest thinkers and changemakers.",
     images: ["/og-image.jpg"],
   },
   generator: "Next.js",
@@ -98,9 +98,9 @@ export default function RootLayout({
           }}
         />
         <noscript>
-          <img 
-            height="1" 
-            width="1" 
+          <img
+            height="1"
+            width="1"
             style={{ display: 'none' }}
             src="https://www.facebook.com/tr?id=761415753580352&ev=PageView&noscript=1"
             alt=""
