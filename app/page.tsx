@@ -20,9 +20,7 @@ export default function HomePage() {
                   <span className="text-primary font-semibold text-sm">TPCA 2026 Conference</span>
                 </div> */}
                 <h1 className="text-4xl lg:text-6xl font-bold leading-tight">
-                  <span className="text-primary">REDEFINITION:</span>
-                  <br />
-                  Stepping Beyond the Usual
+                  TPCA 2026 Conference
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
                   Join hundreds of Africa's boldest thinkers, builders, and changemakers at The Pacesetters Conference
